@@ -15,7 +15,7 @@ from visualization.vis_utils import get_specific_shape, get_amass_sequence_theta
 from utils.interpenetration import remove_interpenetration_fast
 
 # Set output path where inference results will be stored
-OUT_PATH = "/content/sample_data"
+OUT_PATH = "/content/drive/MyDrive/TAILORNET-DATASET/output_data"
 
 
 def get_single_frame_inputs(garment_class, gender):
