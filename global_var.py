@@ -14,7 +14,7 @@ SMPL_PATH_FEMALE = '/content/drive/MyDrive/TAILORNET-DATASET/SMPL_python_v.1.1.0
 LOG_DIR = '/content/drive/MyDrive/TAILORNET-DATASET/output_data'
 
 # Downloaded TailorNet trained models' path
-MODEL_WEIGHTS_PATH = "/content/drive/MyDrive/TAILORNET-DATASET/weight_folderr"
+MODEL_WEIGHTS_PATH = "/content/drive/MyDrive/TAILORNET-DATASET/weight_folder"
 
 # --------------------------------------------------------------------
 # Variables below hardly need to change
