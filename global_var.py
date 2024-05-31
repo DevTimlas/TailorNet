@@ -3,7 +3,7 @@ import os
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Dataset root directory. Change it to point to downloaded data root directory.
-DATA_DIR = '/content/inference_data'
+DATA_DIR = '/content/drive/MyDrive/TAILORNET-DATASET/inference_data'
 
 # Set the paths to SMPL model
 SMPL_PATH_NEUTRAL = '/content/drive/MyDrive/TAILORNET-DATASET/SMPL_python_v.1.1.0/smpl/models/basicmodel_neutral_lbs_10_207_0_v1.1.0.pkl'
