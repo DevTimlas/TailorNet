@@ -6,12 +6,12 @@ ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = '/content/inference_data'
 
 # Set the paths to SMPL model
-SMPL_PATH_NEUTRAL = '/content/SMPL_python_v.1.1.0/smpl/models/basicmodel_neutral_lbs_10_207_0_v1.1.0.pkl'
-SMPL_PATH_MALE = '/content/SMPL_python_v.1.1.0/smpl/models/basicmodel_m_lbs_10_207_0_v1.1.0.pkl'
-SMPL_PATH_FEMALE = '/content/SMPL_python_v.1.1.0/smpl/models/basicmodel_neutral_lbs_10_207_0_v1.1.0.pkl'
+SMPL_PATH_NEUTRAL = '/content/drive/MyDrive/TAILORNET-DATASET/SMPL_python_v.1.1.0/smpl/models/basicmodel_neutral_lbs_10_207_0_v1.1.0.pkl'
+SMPL_PATH_MALE = '/content/drive/MyDrive/TAILORNET-DATASET/SMPL_python_v.1.1.0/smpl/models/basicmodel_m_lbs_10_207_0_v1.1.0.pkl'
+SMPL_PATH_FEMALE = '/content/drive/MyDrive/TAILORNET-DATASET/SMPL_python_v.1.1.0/smpl/models/basicmodel_f_lbs_10_207_0_v1.1.0.pkl'
 
 # Log directory where training logs, checkpoints and visualizations will be stored
-LOG_DIR = '/content/sample_data'
+LOG_DIR = '/content/drive/MyDrive/TAILORNET-DATASET/output_data'
 
 # Downloaded TailorNet trained models' path
 MODEL_WEIGHTS_PATH = "/content/drive/MyDrive/TAILORNET-DATASET/weight_folderr"
